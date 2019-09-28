@@ -1,0 +1,40 @@
+.my-container{
+     border: 1px solid green;
+     background-color: yellow;
+}
+
+.my-row{
+    border: 3px solid red;
+}
+
+.my-col{
+    border: 3px dotted blue;
+}
+
+body{
+    margin: 30px;
+}
+
+.my-card{
+    margin-top: 20px;
+}
+
+.bgblue{
+    background-color: green;
+    display: block;
+}
+
+.my-header{
+    display: block;
+
+}
+
+.my-logo{
+    width:16px;
+    height:16px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+

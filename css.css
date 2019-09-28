@@ -1,0 +1,150 @@
+.register-form{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.login-form{
+    margin-top: 50px;;
+}
+
+.my-mb-0{
+    margin-bottom: 0;
+}
+
+.socialsection{
+    width: 100%;
+}
+
+#my-bg-image{
+    background-image: url(images/my-header-bg.jpg);
+    width: 100%;
+    height: 480px;
+}
+
+#my-bg-image h1{
+    font-weight: 500;
+    font-size: 70px;
+}
+
+.my-mr-0{
+    padding-right: 0;
+}
+
+.my-mr-0{
+    margin-right: 0;
+}
+
+.text li {
+    text-align: right;
+  }
+
+  .about-form{
+    width: 760px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.my-img-size{
+    width: 100px;
+    height: 81px;
+}
+
+.my-container-border{
+    border: 1px solid grey;
+}
+
+.my-ul{
+    list-style-type: none;
+}
+
+.width-100-percent{
+    width: 100%;
+}
+
+.is-split-30-70{
+    background: linear-gradient(-90deg, #f4f4ef 70%, #ff544e 30%);
+}
+
+
+.name-container {
+    position: relative;
+}
+.name-container img {
+    max-width: 90%;
+    margin-left: 10%;
+}
+
+.is-split-50-50{
+    background: linear-gradient(-90deg, #ff544e 50%, white  50%);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+}
+
+@media (max-width: 768px){
+    .is-split-30-70{
+        background:linear-gradient(180deg,  #ff544e 35%, white 10% );
+    }
+
+    .is-split-50-50{
+        background:linear-gradient(360deg,  #ff544e 79%, #ff544e 30% );
+    }
+}
+
+@media (max-width: 768px){
+    .test-padding-r{
+        margin-right: 3px;
+    }
+}
+
+
+#Sec2 {
+    color: #506a85;
+}
+
+#Sec2 h1{
+    font-size: 44px;
+
+}
+
+#Sec2 .card{
+    border: none;
+}
+
+#Sec2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#Sec4 .my-mt{
+    margin-top:100px;
+}
+
+
+#Sec4 .my-mb{
+    margin-bottom:60px;
+}
+
+.bgfooter{
+    background-color: #2f4052;
+}
+
+.bgfooter2{
+    background-color: #283645;
+}
+
+#footer{
+    color: white;
+}
+
+#footer li{
+    line-height: 12px;
+}
+
+
+.tb img {
+    display: inline-block;
+    margin-bottom: 3px;
+}
+
